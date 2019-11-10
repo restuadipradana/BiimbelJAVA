@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - readData",
+            "request": "launch",
+            "mainClass": "com.bimbel.readfile.readData",
+            "projectName": "Bimbel"
+        }
+    ]
+}
